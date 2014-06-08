@@ -11,14 +11,14 @@ body {
 
 a {
 	text-decoration: none;
-	padding-top: 35%;
+	padding-top: 40%;
 }
 
 .entree {
   margin: 1em;
-  width: 25%;
+  width: 20%;
   height: 0px;
-  padding-bottom: 25%;
+	padding-bottom: 20%;
   overflow: hidden;
   text-align: center;
   background-color: rgba(34, 34, 34, .8);
@@ -31,8 +31,8 @@ a {
 
 @media (max-width: 1000px) {
 	.entree {
-		width: 35%;
-		padding-bottom: 35%
+		width: 25%;
+		padding-bottom: 25%;
 	}
 }
 
