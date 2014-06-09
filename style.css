@@ -1,12 +1,39 @@
 /* La page id-libre.org : l'accueil  */
 
-body {
-	padding-top: 2em;
+html, body, article, ul, li {
+	margin: 0px;
+	padding: 0px;
 }
 
-#accueil {
+body {
+	width: 100%;
+}
+
+nav {
+	max-width: 80%;
+	margin: 0px auto;
+}
+
+ul {
+	list-style: none outside none;
+}
+
+li {
+	width: 24%;
+  height: 0px;
+	padding-bottom: 24%;
+	margin: 1%;
+	text-align: center;
+  background-color: rgba(34, 34, 34, .8);
+  color: rgba(231, 231, 231, .7);
+  font-size: 200%;
+  float: left;
+  border-radius: 3px;
+}
+
+/* #accueil {
   margin: 0px auto;
-  max-width: 60%;
+  max-width: 80%;
 }
 
 a {
@@ -14,11 +41,17 @@ a {
 	padding-top: 40%;
 }
 
+ul {
+	list-style: none outside none;
+	margin: 0px;
+	padding: 1%; 
+}
+
 .entree {
-  margin: 1em;
-  width: 20%;
+  margin: 1%;
+  width: 24%;
   height: 0px;
-	padding-bottom: 20%;
+	padding-bottom: 24%;
   overflow: hidden;
   text-align: center;
   background-color: rgba(34, 34, 34, .8);
@@ -52,4 +85,4 @@ a {
 .entree:hover a {
   text-decoration: none;
 }
-
+*/
