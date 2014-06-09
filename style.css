@@ -19,9 +19,9 @@ ul {
 }
 
 li {
-	width: 24%;
+	width: 23%;
   height: 0px;
-	padding-bottom: 24%;
+	padding-bottom: 23%;
 	margin: 1%;
 	text-align: center;
   background-color: rgba(34, 34, 34, .8);
@@ -30,6 +30,12 @@ li {
   float: left;
   border-radius: 3px;
 }
+
+a {
+	padding-top: 40%;
+	text-decoration: none;
+}
+
 
 /* #accueil {
   margin: 0px auto;
