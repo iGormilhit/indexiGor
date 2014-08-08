@@ -11,3 +11,4 @@ Euh. Tout ?
   * Le centrage d'article ne fonctionne pas bien. Dépend du nombre de carrés affichés
   * Revoir la taille des carrés ?
   * étudier l'aspect responsive avec les @media (juste une esquisse jusqu'ici).
+  * test
