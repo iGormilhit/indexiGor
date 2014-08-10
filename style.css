@@ -9,31 +9,30 @@ body {
 	width: 100%;
 }
 
-nav {
-	max-width: 80%;
+#accueil {
+	max-width: 66%;
 	margin: 0px auto;
 }
 
-ul {
-	list-style: none outside none;
-}
-
-li {
-	width: 23%;
-  height: 0px;
-	padding-bottom: 23%;
-	margin: 1%;
+.entree {
+	display: inline;
+	width: 8em;
+  height: 8em;
 	text-align: center;
   background-color: rgba(34, 34, 34, .8);
   color: rgba(231, 231, 231, .7);
-  font-size: 200%;
-  float: left;
   border-radius: 3px;
+	margin: 2%;
 }
 
-a {
-	padding-top: 40%;
+.wraptocenter {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.wraptocenter a {
 	text-decoration: none;
+	vertical-align: middle;
 }
 
 
