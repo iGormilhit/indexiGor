@@ -1,93 +1,93 @@
 /* La page id-libre.org : l'accueil  */
 
 html, body, article, ul, li {
-	margin: 0px;
-	padding: 0px;
+				margin: 0px;
+				padding: 0px;
 }
 
 body {
-	width: 100%;
+				width: 100%;
 }
 
 #accueil {
-	max-width: 66%;
-	margin: 0px auto;
+				max-width: 66%;
+				margin: 0px auto;
 }
 
 .entree {
-	display: inline;
-	width: 8em;
-  height: 8em;
-	text-align: center;
-  background-color: rgba(34, 34, 34, .8);
-  color: rgba(231, 231, 231, .7);
-  border-radius: 3px;
-	margin: 2%;
+				display: inline;
+				width: 8em;
+				height: 8em;
+				text-align: center;
+				background-color: rgba(34, 34, 34, .8);
+				color: rgba(231, 231, 231, .7);
+				border-radius: 3px;
+				margin: 2%;
 }
 
 .wraptocenter {
-	display: table-cell;
-	vertical-align: middle;
+				display: table-cell;
+				vertical-align: middle;
 }
 
 .wraptocenter a {
-	text-decoration: none;
-	vertical-align: middle;
+				text-decoration: none;
+				vertical-align: middle;
 }
 
 
 /* #accueil {
-  margin: 0px auto;
-  max-width: 80%;
+margin: 0px auto;
+max-width: 80%;
 }
 
 a {
-	text-decoration: none;
-	padding-top: 40%;
+text-decoration: none;
+padding-top: 40%;
 }
 
 ul {
-	list-style: none outside none;
-	margin: 0px;
-	padding: 1%; 
+list-style: none outside none;
+margin: 0px;
+padding: 1%; 
 }
 
 .entree {
-  margin: 1%;
-  width: 24%;
-  height: 0px;
-	padding-bottom: 24%;
-  overflow: hidden;
-  text-align: center;
-  background-color: rgba(34, 34, 34, .8);
-  color: rgba(231, 231, 231, .7);
-  font-size: 200%;
-  float: left;
-  vertical-align: middle;
-  border-radius: 3px;
+margin: 1%;
+width: 24%;
+height: 0px;
+padding-bottom: 24%;
+overflow: hidden;
+text-align: center;
+background-color: rgba(34, 34, 34, .8);
+color: rgba(231, 231, 231, .7);
+font-size: 200%;
+float: left;
+vertical-align: middle;
+border-radius: 3px;
 }
 
 @media (max-width: 1000px) {
-	.entree {
-		width: 25%;
-		padding-bottom: 25%;
-	}
+				.entree {
+								width: 25%;
+								padding-bottom: 25%;
+				}
 }
 
 .entree:hover  {
-  text-decoration: none;
-  color: rgba(231, 231, 231, 1);
-  background-color: rgba(34, 34, 34, .5);
+				text-decoration: none;
+				color: rgba(231, 231, 231, 1);
+				background-color: rgba(34, 34, 34, .5);
 }
 
 .entree a {
-  display: block;
-  width: 100%;
-  height: 100%;
-  color: rgba(231, 231, 231, .7);
+				display: block;
+				width: 100%;
+				height: 100%;
+				color: rgba(231, 231, 231, .7);
 }
 
 .entree:hover a {
-  text-decoration: none;
+				text-decoration: none;
 }
-*/
+	*/
