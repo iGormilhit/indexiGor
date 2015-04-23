@@ -1,0 +1,22 @@
+button, .button {
+    height: 225px;
+    width: 225px;
+    overflow: hidden;
+    word-wrap: break-word;
+    white-space: normal;
+    margin: 6px;
+    hyphens: auto;
+    -moz-hyphens: auto;
+}
+
+.content {
+    display: table-cell;
+    vertical-align: middle;
+    height: 220px;
+}
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+}
+
